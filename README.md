@@ -1,6 +1,5 @@
 # CakePHP eCommerce Application
 
-A simple application to make an online shop with cakephp
 
 ## Installation
 
